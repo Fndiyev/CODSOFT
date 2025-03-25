@@ -6,10 +6,10 @@ This repository contains machine learning projects on **Titanic survival predict
 
 | Task No. | Project Name                    | Description |
 |----------|---------------------------------|-------------|
-| **1**    | 🚢 **Titanic Survival Prediction** | Predicts passenger survival using classification models like Logistic Regression and Random Forest. |
-| **3**    | 🌸 **Iris Flower Classification**  | Classifies iris flowers into Setosa, Versicolor, or Virginica using KNN, Decision Trees, and SVM. |
-| **4**    | 📈 **Sales Prediction**           | Forecasts sales based on historical data using regression models like Linear Regression and Random Forest Regressor. |
-| **5**    | 💳 **Credit Card Fraud Detection** | Identifies fraudulent transactions using classification models, feature selection, and data balancing techniques. |
+| **1**    | 🚢 **Titanic Survival Prediction** | Predicts passenger survival using classification models like Logistic Regression, SVM, KNN, Random Forest and so on. |
+| **3**    | 🌸 **Iris Flower Classification**  | Classifies iris flowers into Setosa, Versicolor, or Virginica using KNN, Random Forest, and Logistic Regression. |
+| **4**    | 📈 **Sales Prediction**           | Forecasts sales based on historical data using regression model like Linear Regression. |
+| **5**    | 💳 **Credit Card Fraud Detection** | Identifies fraudulent transactions using classification models, like Random Forest and Logistic Regression. |
 
 ## **🛠️ Tools & Libraries Used**  
 - **Pandas, NumPy** – Data handling & preprocessing  
